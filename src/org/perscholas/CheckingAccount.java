@@ -1,6 +1,8 @@
 package org.perscholas;
 
 public class CheckingAccount extends BankAccount {
+
+
     public CheckingAccount() {
     }
 
